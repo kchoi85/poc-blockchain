@@ -1,8 +1,8 @@
-# Blockchain with SHA256
+# Blockchain with SHA256 :tada::tada::tada:
 Simple blockchain (Blocks + chain) in NodeJS :clap:
 
 ## Packages and references
-Reference: https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
+**Reference**: https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
 
 ```
 npm install --save crypto-js
@@ -14,6 +14,6 @@ npm install --save crypto-js
 - **precedingHash**	:   It points to the hash of the preceding block in the blockchain, something important in maintaining the blockchain’s integrity.
 
 ## Todos
-- [x] CryptoBlock class
-- [x] CryptoBlockChain class
-- [] Check chain validity method
+- [x] ~~CryptoBlock class~~
+- [x] ~~CryptoBlockChain class~~
+- [ ] Check chain validity method
