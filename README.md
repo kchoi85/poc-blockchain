@@ -1,4 +1,4 @@
-# Blockchain with SHA256 :tada::tada::tada:
+# Blockchain with SHA256 :lock::key:
 Simple blockchain (Blocks + chain) in NodeJS :clap:
 
 ## Packages and references
