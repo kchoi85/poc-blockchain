@@ -1,6 +1,7 @@
 # Blockchain with SHA256
 Simple blockchain (Blocks + chain) in NodeJS - 20210430
 
+## Packages and references
 Reference: https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
 
 ```
