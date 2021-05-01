@@ -3,7 +3,7 @@
 
 Reference: https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
 
-> npm install --save crypto-js
+```npm install --save crypto-js```
 
 - index	        :   It’s a unique number that tracks the position of every block in the entire blockchain.
 - timestamp	    :   It keeps a record of the time of occurrence of each completed transaction.
