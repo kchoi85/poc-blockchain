@@ -1,4 +1,4 @@
-# :lock::key: Blockchain with SHA256 
+# :lock::key: Blockchain network with SHA256 
 Simple blockchain (Blocks + chain) in NodeJS :clap:
 
 ## Packages and references
